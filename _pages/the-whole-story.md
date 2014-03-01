@@ -201,7 +201,7 @@ Containers can be found in a Docker Registry (either public or private), using D
 
 Figure 8: Basic Docker Functions
 
-For a full list of functions, please go to: [http://docs.docker.io/en/latest/commandline/](http://docs.docker.io/en/latest/commandline/)
+For a full list of functions, please go to: [http://docs.docker.io/en/latest/reference/commandline/cli/](http://docs.docker.io/en/latest/reference/commandline/cli/)
 
 Docker runs three ways:
 * as a daemon to manage LXC containers on your Linux host (sudo docker -d)
